@@ -1,0 +1,7 @@
+data/
+*junk*
+.vscode/
+__pycache__/
+.cache/
+.ipynb_checkpoints/
+
